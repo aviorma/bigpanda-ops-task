@@ -3,6 +3,11 @@ BigPanda Exercise for Ops Engineers.
 
 Tested on Python 2.7.12
 
+## Dependences Installation
+```
+pip install os wget time human_curl
+```
+
 ## Running Instructions
 
 ```
@@ -14,7 +19,6 @@ Tested on Python 2.7.12
 For 200 status code the following message will be present  'Panda Environment has been start successfully'.
 
 For 500 status code the following message will be present 'Panda Environment is Unavailable'.
-
 
 
 ## App Healthcheck
