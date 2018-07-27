@@ -14,7 +14,6 @@ pip install os wget time human_curl
 ./execute_bigpanda_env.sh
 ```
 
-
 ## Script Result
 For 200 status code the following message will be present  'Panda Environment has been start successfully'.
 
