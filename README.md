@@ -11,9 +11,8 @@ Tested on Python 2.7.12
 
 
 ## Script Result
-For 200 status code the following message will be present  'Panda Environment has been start successfully'
-For 500 status code the following message will be present 'Panda Environment is Unavailable'
-
+For 200 status code the following message will be present  'Panda Environment has been start successfully'.
+For 500 status code the following message will be present 'Panda Environment is Unavailable'.
 
 
 
